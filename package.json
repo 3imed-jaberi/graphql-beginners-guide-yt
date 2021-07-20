@@ -1,0 +1,49 @@
+{
+  "name": "graphql-beginners-guide-yt",
+  "version": "1.0.0",
+  "description": "GraphQL beginner's guide 🧙🏼‍♂️.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev:apollo": "nodemon index.apollo.js",
+    "start:apollo": "node index..apollo.js",
+    "dev:yoga": "nodemon index.yoga.js",
+    "start:yoga": "node index..yoga.js",
+    "dev": "npm run dev:yoga",
+    "start": "npm run start:yoga"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/graphql-beginners-guide-yt.git"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "graphql",
+    "graphql-server",
+    "graphql-yoga",
+    "apollo-server",
+    "pubsub",
+    "real-time"
+  ],
+  "author": {
+    "name": "imed jaberi",
+    "email": "imed-jaberi@outlook.com",
+    "url": "https://www.3imed-jaberi.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "2.25.2",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/graphql-beginners-guide-yt/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/graphql-beginners-guide-yt#readme"
+}
