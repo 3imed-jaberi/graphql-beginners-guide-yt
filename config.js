@@ -1,0 +1,2 @@
+export const PORT = 4040
+export const NEW_FRUIT_ADDED_CHANNEL = 'NEW_FRUIT_ADDED_CHANNEL'
