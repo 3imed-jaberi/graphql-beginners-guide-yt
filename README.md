@@ -4,7 +4,7 @@ GraphQL guide for beginner's 🎯.
 
 ### Currently, this tutorial maked using `GraphQL Yoga` and `Apollo Server@2.x.x` ✨.
 
-[**Watch the series to learn how it was made 👀.**](youtube-link)
+[**Watch the series to learn how it was made 👀.**](https://www.youtube.com/watch?v=uIVbmHYKxt4)
 
 **_Note:_** <br/>
 &nbsp;&nbsp; This series is in Arabic .. If you don't speak
